@@ -38,7 +38,7 @@ const config = {
     'react/prop-types': 'off',
 
     'no-shadow': 'off',
-    '@typescript-eslint/no-shadow': ['error', { hoist: 'all', ignoreFunctionTypeParameterNameValueShadow: true }],
+    '@typescript-eslint/no-shadow': 'off',
     'no-unused-expressions': 'off',
     '@typescript-eslint/no-unused-expressions': 'error',
     'no-unused-vars': 'off',
